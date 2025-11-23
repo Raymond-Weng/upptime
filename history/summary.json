@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2277,
-    "timeDay": 2277,
-    "timeWeek": 2277,
-    "timeMonth": 2277,
-    "timeYear": 2277,
+    "time": 2087,
+    "timeDay": 2087,
+    "timeWeek": 2087,
+    "timeMonth": 2087,
+    "timeYear": 2087,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Rwlink - Powerful Link Shortening Service",
-    "url": "https://rwlink.us.kg/",
-    "icon": "https://icons.duckduckgo.com/ip3/rwlink.us.kg.ico",
-    "slug": "rwlink-powerful-link-shortening-service",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 404,
-    "timeDay": 404,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
-    "dailyMinutesDown": {
-      "2025-11-23": 0
-    }
   }
 ]
