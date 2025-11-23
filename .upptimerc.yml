@@ -20,10 +20,12 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/87399369
   name: Raymond's services monitor
   introTitle: "Monitor for all services made by **Raymond Weng**."
-  introMessage: "Feel free to give my projects a try."
+  introMessage: Feel free to give my projects a try.
   navbar:
     - title: Status
       href: /
+    - title: Blog
+      href: https://rwc.dpdns.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
