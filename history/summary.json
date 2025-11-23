@@ -1,7 +1,7 @@
 [
   {
     "name": "Blog",
-    "url": "https://rwc.dpdns.org",
+    "url": "https://rwc.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/rwc.dpdns.org.ico",
     "slug": "blog",
     "status": "up",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2508,
-    "timeDay": 2508,
-    "timeWeek": 2508,
-    "timeMonth": 2508,
-    "timeYear": 2508,
+    "time": 2277,
+    "timeDay": 2277,
+    "timeWeek": 2277,
+    "timeMonth": 2277,
+    "timeYear": 2277,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Rwlink - Powerful Link Shortening Service",
+    "url": "https://rwlink.us.kg/",
+    "icon": "https://icons.duckduckgo.com/ip3/rwlink.us.kg.ico",
+    "slug": "rwlink-powerful-link-shortening-service",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 404,
+    "timeDay": 404,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {}
   }
 ]
