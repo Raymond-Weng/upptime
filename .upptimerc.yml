@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Blog
     url: https://rwc.dpdns.org/
-  - name: rwlink.us.kg - Powerful Link Shortening Service
+  - name: rwlink.us.kg
     url: https://rwlink.us.kg/
     method: GET
 
@@ -24,10 +24,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Blog
+    - title: My Blog
       href: https://rwc.dpdns.org
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
