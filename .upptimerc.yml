@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Blog
     url: https://rwc.dpdns.org/
-  - name: Rwlink - Powerful Link Shortening Service
-    url: https://rwlink.us.kg/
+  # - name: Rwlink - Powerful Link Shortening Service
+  #   url: https://rwlink.us.kg/
 
 assignees:
  - Raymond-Weng
