@@ -22,17 +22,19 @@
     "url": "https://rwlink.us.kg/",
     "icon": "https://icons.duckduckgo.com/ip3/rwlink.us.kg.ico",
     "slug": "rwlink-us-kg-powerful-link-shortening-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4219,
-    "timeDay": 4219,
-    "timeWeek": 4219,
-    "timeMonth": 4219,
-    "timeYear": 4219,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "18.31%",
+    "uptimeDay": "18.31%",
+    "uptimeWeek": "18.31%",
+    "uptimeMonth": "18.31%",
+    "uptimeYear": "18.31%",
+    "time": 4325,
+    "timeDay": 4325,
+    "timeWeek": 4325,
+    "timeMonth": 4325,
+    "timeYear": 4325,
+    "dailyMinutesDown": {
+      "2025-11-23": 13
+    }
   }
 ]
