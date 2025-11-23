@@ -24,8 +24,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Blog
-      href: https://rwc.dpdns.org/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
