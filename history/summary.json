@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rwc.dpdns.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.52%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "94.52%",
-    "uptimeMonth": "94.52%",
-    "uptimeYear": "94.52%",
-    "time": 1932,
-    "timeDay": 1932,
-    "timeWeek": 1932,
-    "timeMonth": 1932,
-    "timeYear": 1932,
-    "dailyMinutesDown": {
-      "2025-11-23": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1826,
+    "timeDay": 1826,
+    "timeWeek": 1826,
+    "timeMonth": 1826,
+    "timeYear": 1826,
+    "dailyMinutesDown": {}
   },
   {
     "name": "rwlink.us.kg - Powerful Link Shortening Service",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rwlink.us.kg.ico",
     "slug": "rwlink-us-kg-powerful-link-shortening-service",
     "status": "up",
-    "uptime": "90.84%",
-    "uptimeDay": "90.84%",
-    "uptimeWeek": "90.84%",
-    "uptimeMonth": "90.84%",
-    "uptimeYear": "90.84%",
-    "time": 3122,
-    "timeDay": 3122,
-    "timeWeek": 3122,
-    "timeMonth": 3122,
-    "timeYear": 3122,
-    "dailyMinutesDown": {
-      "2025-11-23": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2586,
+    "timeDay": 2586,
+    "timeWeek": 2586,
+    "timeMonth": 2586,
+    "timeYear": 2586,
+    "dailyMinutesDown": {}
   }
 ]
