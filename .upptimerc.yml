@@ -15,8 +15,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.rwc.dpdns.org
-  # baseUrl: /your-repo-name
+  cname: rww.qzz.io
+  baseUrl: /upptime
   logoUrl: https://avatars.githubusercontent.com/u/87399369
   name: Raymond's services monitor
   introTitle: "Monitor for all services made by **Raymond Weng**."
