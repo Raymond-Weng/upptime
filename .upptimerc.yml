@@ -7,7 +7,8 @@ sites:
     url: https://rww.qzz.io/
   - name: rwlink.us.kg
     url: https://rwlink.us.kg/
-    method: GET
+  - name: Raymond's OJ
+    url: https://judge.rww.qzz.io/
 
 assignees:
  - Raymond-Weng
