@@ -7,8 +7,8 @@ sites:
     url: https://rww.qzz.io/
   - name: rwlink.us.kg
     url: https://rwlink.us.kg/
-  - name: Raymond's OJ
-    url: https://judge.rww.qzz.io/
+  - name: 咕咕嘎嘎OJ
+    url: https://oj.gugugaga.net/
 
 assignees:
  - Raymond-Weng
