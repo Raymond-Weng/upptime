@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 2616,
-    "timeDay": 4563,
-    "timeWeek": 4659,
-    "timeMonth": 2616,
-    "timeYear": 2616,
+    "time": 2562,
+    "timeDay": 210,
+    "timeWeek": 3363,
+    "timeMonth": 2562,
+    "timeYear": 2562,
     "dailyMinutesDown": {
       "2025-11-25": 22
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rwlink.us.kg.ico",
     "slug": "rwlink-us-kg",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 2438,
-    "timeDay": 804,
-    "timeWeek": 2576,
-    "timeMonth": 2438,
-    "timeYear": 2438,
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 2510,
+    "timeDay": 4456,
+    "timeWeek": 3085,
+    "timeMonth": 2510,
+    "timeYear": 2510,
     "dailyMinutesDown": {
       "2025-11-27": 23,
       "2025-11-25": 21
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 699,
-    "timeWeek": 641,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "time": 656,
+    "timeDay": 763,
+    "timeWeek": 649,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {}
   }
 ]
