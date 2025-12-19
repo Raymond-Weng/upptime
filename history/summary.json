@@ -4,10 +4,10 @@
     "url": "https://rww.qzz.io/",
     "icon": "https://icons.duckduckgo.com/ip3/rww.qzz.io.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 2540,
@@ -16,6 +16,7 @@
     "timeMonth": 2540,
     "timeYear": 2540,
     "dailyMinutesDown": {
+      "2025-12-19": 1,
       "2025-12-16": 18,
       "2025-11-25": 22
     }
