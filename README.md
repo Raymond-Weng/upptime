@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.rwc.dpdns.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://rww.qzz.io/upptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Raymond](https://rwc.dpdns.org), powered by [Upptime](https://github.com/upptime/upptime).
 
