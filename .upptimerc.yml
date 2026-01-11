@@ -26,7 +26,7 @@ status-website:
     - title: Status
       href: /
     - title: My Blog
-      href: https://rww.qzz.io/
+      href: https://raymondweng.dev/
     - title: GitHub
       href: https://github.com/$OWNER/
 
