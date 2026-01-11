@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Blog
-    url: https://rww.qzz.io/
+    url: https://raymondweng.dev/
   - name: rwlink.us.kg
     url: https://rwlink.us.kg/
   - name: 咕咕嘎嘎OJ
