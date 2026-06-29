@@ -31,9 +31,9 @@
     "url": "https://rwlink.us.kg/",
     "icon": "https://icons.duckduckgo.com/ip3/rwlink.us.kg.ico",
     "slug": "rwlink-us-kg",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
@@ -60,7 +60,8 @@
       "2026-04-09": 1440,
       "2026-04-08": 250,
       "2026-05-03": 50,
-      "2026-05-23": 61
+      "2026-05-23": 61,
+      "2026-06-29": 0
     }
   },
   {
