@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.rww.qzz.io): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://upptime.raymondweng.dev): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Raymond](https://raymondweng.dev), powered by [Upptime](https://github.com/upptime/upptime).
 
