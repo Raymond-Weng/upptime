@@ -6,9 +6,9 @@ sites:
   - name: Blog
     url: https://raymondweng.dev/
     maxResponseTime: 10000
-  - name: rwlink.us.kg
-    url: https://rwlink.us.kg/
-    maxResponseTime: 10000
+  # - name: rwlink.us.kg
+  #   url: https://rwlink.us.kg/
+  #   maxResponseTime: 10000
   - name: 咕咕嘎嘎OJ
     url: https://oj.gugugaga.net/
     maxResponseTime: 10000
